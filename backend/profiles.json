@@ -1,0 +1,53 @@
+{
+    "_id": "5aff8f37d97381062fb10892",
+    "user": "5afd38eeb886f50f4320e6c1",
+    "handle": "test",
+    "company": "Newegg'Xian",
+    "website": "www.jerrywang.com",
+    "location": "ShaanXi Xi'an",
+    "status": "Senior Software Development Engineer",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "React.js",
+        "Angular.js",
+        "Node.js",
+        "C#/.NET"
+    ],
+    "bio": "Teaching and educating.",
+    "githubusername": "www.github.com/vpersie2008",
+    "experience": [
+        {
+            "current": true,
+            "_id": "5aff9079d97381062fb10894",
+            "title": "I'am a good software engineer",
+            "company": "Newegg",
+            "location": "Xi'An",
+            "from": "2015-08-13T18:14:00.000Z",
+            "to": "2021-05-01T18:14:00.000Z",
+            "description": "Coding is my life!"
+        }
+    ],
+    "education": [
+        {
+            "current": false,
+            "_id": "5aff9153d97381062fb10895",
+            "school": "Computer science and technology",
+            "degree": "Bachelor",
+            "fieldofstudy": "Computer ",
+            "from": "2009-09-01T18:14:00.000Z",
+            "to": "2013-07-31T18:14:00.000Z",
+            "description": "I'm good at coding!"
+        }
+    ],
+    "social": {
+        "wechat": "530689602",
+        "QQ": "530689602",
+        "tengxunkt": "https://oceanwu.ke.qq.com/",
+        "wangyikt": "http://study.163.com/u/masterwu"
+    },
+    "date": "2021-07-18T02:43:03.029Z",
+    "__v": 2
+}

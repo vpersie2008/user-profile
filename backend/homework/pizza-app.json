@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "-LCwwRQDtj7ap0Zz": {
+      "description": "This is a good Pizza!",
+      "name": "Durian sandwich pizza with cheese.",
+      "options": {
+        "0": {
+          "price": "55",
+          "size": "9"
+        },
+        "1": {
+          "price": "88",
+          "size": "12"
+        }
+      }
+    }
+  },
+  "users": {
+    "-LCrHd6LCSfTe3NH": {
+      "confirmPassword": "321321",
+      "email": "test@test.com",
+      "password": "321321"
+    }
+  }
+}
