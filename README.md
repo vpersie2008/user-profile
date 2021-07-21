@@ -138,11 +138,12 @@ A system for introducing software developers, you can easily learn about other d
 
 - ### 6.1 Code Overview
 
-![](@attachment/Clipboard_2021-07-22-00-12-04.png)
+![image](https://user-images.githubusercontent.com/19200456/126529567-0f20d0ed-d8fb-42ff-8c17-ec8295832e9a.png)
+
 
 ## 7. Login process
 
-![](@attachment/Clipboard_2021-07-22-00-44-54.png)
+![image](https://user-images.githubusercontent.com/19200456/126530746-3a264db7-fdab-4695-9c48-a541e68c9506.png)
 
 ## 8. Implement Page list
 
@@ -210,43 +211,39 @@ A system for introducing software developers, you can easily learn about other d
 
 - **Home page**
 
-![](@attachment/Clipboard_2021-07-21-23-36-56.png)
+![image](https://user-images.githubusercontent.com/19200456/126530187-257a0418-283f-478f-866f-d99780b24e1a.png)
 
 - **Register Page**
 
-![](@attachment/Clipboard_2021-07-21-23-38-16.png)
+![image](https://user-images.githubusercontent.com/19200456/126530249-5ed9459f-49e5-42bf-a9fa-1a56bd694725.png)
+
 
 - **Login Page**
 
-![](@attachment/Clipboard_2021-07-21-23-38-50.png)
+![image](https://user-images.githubusercontent.com/19200456/126530325-d58baa29-10db-4cc2-aea6-fbefea148c3d.png)
 
 - **Dashboard Page**
 
-![](@attachment/Clipboard_2021-07-21-23-40-22.png)
+![image](https://user-images.githubusercontent.com/19200456/126530398-f1c2abfc-9542-4a49-8a46-20ee6b60be92.png)
 
 - **Dashboard Page, display or operate user profile**
 
-![](@attachment/Clipboard_2021-07-21-23-49-24.png)
+![image](https://user-images.githubusercontent.com/19200456/126530454-44b94798-12df-4e39-8b36-0cff4303c663.png)
 
 - **Add personal experience**
 
-![](@attachment/Clipboard_2021-07-21-23-50-55.png)
-
-- **Add education experience**
-
-![](@attachment/Clipboard_2021-07-21-23-51-29.png)
+![image](https://user-images.githubusercontent.com/19200456/126530496-0122af66-ad61-457e-bb0d-a8f7c356d5f9.png)
 
 - **Show all developer information**
 
-![](@attachment/Clipboard_2021-07-21-23-52-26.png)
+![image](https://user-images.githubusercontent.com/19200456/126530569-918c75b8-ae96-4822-8c93-7bebe4c716fa.png)
 
 - **Show all developer detail information**
 
-![](@attachment/Clipboard_2021-07-21-23-55-16.png)
+![image](https://user-images.githubusercontent.com/19200456/126530608-82d99d43-2d6f-454b-a3d4-740028a8e903.png)
 
 - **Comment and like**
 
-![](@attachment/Clipboard_2021-07-21-23-58-19.png)
+![image](https://user-images.githubusercontent.com/19200456/126530650-8ae96201-41de-4a67-9e84-50afab84c7f9.png)
 
-![image](https://user-images.githubusercontent.com/19200456/126529567-0f20d0ed-d8fb-42ff-8c17-ec8295832e9a.png)
 
