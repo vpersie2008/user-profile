@@ -134,7 +134,7 @@ A system for introducing software developers, you can easily learn about other d
 
 - ### 6.1 Architecture Overview
 
-![](@attachment/Clipboard_2021-07-22-00-55-29.png)
+![image](https://user-images.githubusercontent.com/19200456/126529714-b3e462de-bc5c-4677-9d6a-864cd15b6a39.png)
 
 - ### 6.1 Code Overview
 
@@ -248,4 +248,5 @@ A system for introducing software developers, you can easily learn about other d
 
 ![](@attachment/Clipboard_2021-07-21-23-58-19.png)
 
+![image](https://user-images.githubusercontent.com/19200456/126529567-0f20d0ed-d8fb-42ff-8c17-ec8295832e9a.png)
 
