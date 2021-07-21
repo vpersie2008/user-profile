@@ -143,7 +143,7 @@ A system for introducing software developers, you can easily learn about other d
 
 ## 7. Login process
 
-![image](https://user-images.githubusercontent.com/19200456/126530746-3a264db7-fdab-4695-9c48-a541e68c9506.png)
+![image](https://user-images.githubusercontent.com/19200456/126533737-bd24f26a-85e0-48ac-b613-3f3fac8678ae.png)
 
 ## 8. Implement Page list
 
