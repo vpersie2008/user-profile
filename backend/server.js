@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const passport = require("passport");
 const app = express();
 
-// 引入users.js
+// users.js
 const users = require("./routes/api/users");
 const profile = require("./routes/api/profile");
 const posts = require("./routes/api/posts");
@@ -12,7 +12,7 @@ const posts = require("./routes/api/posts");
 // DB config
 const db = require("./config/keys").mongoURI;
 
-// 使用body-parser中间件
+// body-parser middleware
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
 
@@ -24,7 +24,7 @@ mongoose.connect(db)
         .catch(err => console.log(err));
 
 
-// 使用中间件实现允许跨域
+// CORS
 app.use((req,res,next) => {
   res.header("Access-Control-Allow-Origin","*");
   res.header("Access-Control-Allow-Headers","Content-Type");
@@ -32,7 +32,7 @@ app.use((req,res,next) => {
   next();
 })
 
-// passport 初始化
+// passport init
 app.use(passport.initialize());
 
 require("./config/passport")(passport);
@@ -41,7 +41,7 @@ require("./config/passport")(passport);
 //   res.send("Hello World!");
 // })
 
-// 使用routes
+// Use routes
 app.use("/api/users",users);
 app.use("/api/profile",profile);
 app.use("/api/posts",posts);
